@@ -1,7 +1,9 @@
 [package]
-description = "💩"
 name = "xn--ls8h"
-version = "0.0.1"
+version = "0.0.2"
+description = "💩"
 authors = ["Curtis McEnroe <programble@gmail.com>"]
-keywords = ["pile", "of", "poo"]
 license = "ISC"
+keywords = ["pile", "of", "poo"]
+documentation = "https://xn--ls8h.cmcenroe.me/xn--ls8h"
+repository = "https://github.com/programble/xn--ls8h"
