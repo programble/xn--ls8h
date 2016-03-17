@@ -1,5 +1,10 @@
 # 💩
 
+[![💩][crate-badge]][crate]
+
+[crate-badge]: https://img.shields.io/crates/v/xn--ls8h.svg
+[crate]: https://crates.io/crates/xn--ls8h
+
 ## [Documentation](https://xn--ls8h.cmcenroe.me/xn__ls8h)
 
 ## License
