@@ -1,6 +1,6 @@
 # 💩
 
-## [Documentation](https://xn--ls8h.cmcenroe.me/xn--ls8h)
+## [Documentation](https://xn--ls8h.cmcenroe.me/xn__ls8h)
 
 ## License
 
